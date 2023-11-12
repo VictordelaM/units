@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "shadow";
+    src: url(../Fonts/Shadows_Into_Light/ShadowsIntoLight-Regular.ttf);
+}
+
+body{
+    background-image: url(../images/photo-1604397653091-f08b42e22bb9.avif);
+    color: white;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    font-family: "shadow";
+    font-size: 2rem;
+    text-shadow: 1px 1px greenyellow;
+    padding: 0 15%;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+main { 
+    font-family: "shadow";
+    font-size: 14px;
+    background-color: rgba(156, 154, 154, 0.378);
+    border-radius: 70px;
+    padding: 5%;                    /*warum greift h1 nicht?*/
+}
+
+main article{
+    padding: 2%;
+    margin: 0 100px;
+}
+

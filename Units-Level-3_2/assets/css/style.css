@@ -1,0 +1,36 @@
+body{
+    background-image: url(../image/harold.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header a{
+    text-decoration: none;
+    color: rgba(50, 50, 205, 0.522);
+    text-align: center;
+    margin: 0 45%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+/* header a::before{
+    content: url(../image/icons8-meme-50.png);
+    display: inline-block;
+} */
+
+main {
+    text-align: center;
+    margin: 25% 30% ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(50, 50, 205, 0.522);
+}
+
+main h4{
+    font-size: 10px;
+}
+
+
+
+

@@ -1,0 +1,25 @@
+
+body{
+    background-image: url(../images/photo-1555066931-4365d14bab8c.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+section{
+    text-align: center;
+    background-color: rgba(105, 103, 103, 0.5);
+    color: white;
+    margin: 15vh 15vw;
+    padding: 5vh 5vh;
+    font-size: 2rem;
+}
+
+h1:nth-of-type(1){
+    margin-bottom: 1px;
+}
+
+h1:nth-of-type(2){
+    margin-top: 1px;
+}
